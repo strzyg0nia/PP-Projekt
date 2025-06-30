@@ -1,0 +1,1 @@
+To repozytorium zawiera komplet zadań projektowych wykonanych w środowisku MSYS2 oraz wykonane sprawozdanie przez Starzyk i Wesołowską. Celem projektu było zapoznanie się z pracą w terminalu, automatyzacją zadań oraz operacjami na plikach i katalogach w systemie Unix/Linux.
